@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="https://leetcode.com/u/Mihik30/">LeetCode</a> •
+<a href="https://leetcode.com/u/Mihikk/">LeetCode</a> •
 <a href="https://github.com/Mihik30">GitHub</a> •
 <a href="https://www.linkedin.com/in/mihik-shah">LinkedIn</a> •
 <a href="mailto:mihiksshah@gmail.com">Email</a>
