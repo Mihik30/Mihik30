@@ -49,14 +49,6 @@ I'm almost always building something—whether it's a side project, an AI experi
 
 ---
 
-## LeetCode
-
-I regularly practice algorithms and data structures to sharpen my problem-solving skills.
-
-➡️ **[Visit my LeetCode Profile](https://leetcode.com/u/Mihik30/)**
-
----
-
 ## Let's Connect
 
 If you'd like to collaborate, discuss AI, or just connect, feel free to reach out.
